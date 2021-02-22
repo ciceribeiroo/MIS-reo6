@@ -34,9 +34,12 @@ public HomeController(IRepository repo, IFileManager fileManager)
 Para iniciar o aprendizado, alguns links interessantes são:
 
 [Documentação Microsoft] (https://docs.microsoft.com/pt-br/dotnet/)
-[Artigo para iniciantes](http://www.linhadecodigo.com.br/artigo/740/net-iniciante-introducao-ao-csharp.aspx)
 [Macoratti: artigos de diversos temas](https://docs.microsoft.com/pt-br/dotnet/)
 
 O .NET é uma plataforma de programação desenvolvida pela Microsoft, feita para ser utilizada com C#, podendo ser utilizada para vários tipos de aplicações.
 
-![Alt Text](https://res.infoq.com/news/2019/06/dotnet-core-past-present-future/en/resources/1dotnet5_platform-1561011960863.png)
+![Plataforma .NET](https://res.infoq.com/news/2019/06/dotnet-core-past-present-future/en/resources/1dotnet5_platform-1561011960863.png)
+
+Para baixar vá em [.NET Dowload](https://dotnet.microsoft.com/download) e escolha sua versão.
+
+![Dowload .NET](.net.PNG)
