@@ -20,16 +20,7 @@ public HomeController(IRepository repo, IFileManager fileManager)
 ```
 
 #### Outra funcionalidade muito usada em .NET é o uso de expressões ou métodos lambdas
-`
-public List<Post> GetAllPosts(string Category)
-{
-
-    Func<Post, bool> InCategory = (post) => { return post.Category.ToLower().Equals(Category.ToLower()); };
-    return _ctx.Posts
-    .Where(post => InCategory(post))
-    .ToList();
-}
-`
+`return _ctx.Posts.Where(post => InCategory(post)).ToList();`
 
 Além do .NET instalados na sua máquina é necessáio ter:
  * Entity Framework Core
