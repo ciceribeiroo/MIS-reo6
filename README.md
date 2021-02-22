@@ -2,6 +2,8 @@
 
 Repositório referente a *Atividade Prática 5* da matéria **Modelagem e Implementação de Software**. 
 
+>“Don’t think of the overwhelming majority of the impossible.”
+
 ## Vamos falar de .NET?
 ![.NET](https://miro.medium.com/max/1400/1*7I6oONv2fGLQJcNEFA4QSw.png)
 
@@ -21,6 +23,7 @@ Também é interessante ter
 Para iniciar o aprendizado, alguns links interessantes são:
 
 [Documentação Microsoft](https://docs.microsoft.com/pt-br/dotnet/)
+
 [Macoratti: artigos de diversos temas](https://docs.microsoft.com/pt-br/dotnet/)
 ### Funcionalidades interessantes
 
@@ -46,5 +49,3 @@ O .NET é uma plataforma de programação desenvolvida pela Microsoft, feita par
 Para baixar vá em [.NET Dowload](https://dotnet.microsoft.com/download) e escolha sua versão.
 
 ![Dowload .NET](.net.PNG)
-
->“Don’t think of the overwhelming majority of the impossible.”
