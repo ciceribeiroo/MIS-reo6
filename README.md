@@ -46,3 +46,5 @@ O .NET é uma plataforma de programação desenvolvida pela Microsoft, feita par
 Para baixar vá em [.NET Dowload](https://dotnet.microsoft.com/download) e escolha sua versão.
 
 ![Dowload .NET](.net.PNG)
+
+>“Don’t think of the overwhelming majority of the impossible.”
