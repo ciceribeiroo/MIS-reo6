@@ -4,7 +4,7 @@ Repositório referente a *Atividade Prática 5* da matéria **Modelagem e Implem
 
 
 #### O seguinte código representa a utilização de injeção de dependência em Asp .NET Core
-`
+```
 private IRepository _repo;
 
 private IFileManager _fileManager;
@@ -17,7 +17,8 @@ public HomeController(IRepository repo, IFileManager fileManager)
     _fileManager = fileManager;
     
 }
-`
+```
+
 #### Outra funcionalidade muito usada em .NET é o uso de expressões ou métodos lambdas
 `
 public List<Post> GetAllPosts(string Category)
